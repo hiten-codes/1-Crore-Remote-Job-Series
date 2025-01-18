@@ -20,4 +20,6 @@ This series consists of all the free and paid resources that I use to learn Bloc
 | Error Handling              | [YouTube Video](https://www.youtube.com/watch?v=6SPDvPK38tw)                                            |
 
 ### Projects
-Coming soon...
+| Topic                       | Video                                                                                                   |
+|-----------------------------|---------------------------------------------------------------------------------------------------------|
+| Python Projects             | [YouTube Playlist](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfAUdLiF2bQ-0l8SwNZ1sBl)            |
